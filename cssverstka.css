@@ -1,0 +1,91 @@
+		@font-face {
+			font-family: teh;
+			src: url(Maler.ttf);
+		}
+		.flex{
+			display: flex;
+		}
+		.head1{
+			background: black;
+			height: 120px;
+		}
+		.head2{
+			width: 170px;
+			margin-left: 320px;
+			height: 90px;
+			margin-top: 15px;
+		}
+		.red{
+			background: black;
+		}
+		.head3{
+			width: 840px;
+			margin-left: 300px;
+			height: 50px;
+			margin-top: 30px;
+		}
+		.center{
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.blue{
+			background: blue;
+		}
+		.head4{
+			width: 900px;
+		}
+		.img{
+			height: 50px;
+			width: 50px;
+		}
+		.body{
+			background-image: url(1234.jpg);
+			height: 700px;
+		}
+		.pie{
+			height: 380px;
+			
+		}
+		.fs{
+			font-family: teh;
+			font-size: 50px;
+		}
+		.fs2{
+			font-family: teh;
+			font-size: 40px;
+			margin-left: 80px;
+			text-decoration: none;
+			color: white;
+		}
+		.fs3{
+			font-family: teh;
+			font-size: 25px;
+			color: black;
+		}
+		.inside{
+			height: 300px;
+			width: 300px;
+			background: blue;
+			margin-top: 20px;
+			margin-left: 150px;
+			border-radius: 20px;
+			text-align: center;
+		}
+		.img1{
+			height: 300px;
+			width: 300px;
+			border-radius: 20px;
+		}
+		.inside:hover {
+			transition: 0.3s linear;
+			height: 300px;
+			width: 300px;
+			margin-top: 5px;
+		}
+		.txt{
+			height: 110px;
+		}
+
+		.bt{
+			background: linear-gradient(90deg, rgba(189,215,180,0.6810925053615196) 33%, rgba(79,50,223,0.4009804605435925) 88%);
+			height: 3000px;
